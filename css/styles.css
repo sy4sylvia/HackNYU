@@ -53,3 +53,13 @@ h1 {
   margin: 3%;
   /* makes it a circle */
 }
+
+/* user profile page */
+.light-section {
+  background-color: #E9E5D6;
+}
+
+.fa-solid {
+  width: 15%;
+  margin: 3%;
+}
