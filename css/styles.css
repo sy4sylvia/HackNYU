@@ -61,6 +61,10 @@ h1 {
   margin: 3%;
 }
 
+.testimonial-text {
+  font-size: 2.5rem;
+  line-height: 1.5;
+}
 /* user profile footer */
 
 #footer {
