@@ -55,11 +55,20 @@ h1 {
 }
 
 /* user profile page */
-.light-section {
-  background-color: #E9E5D6;
-}
 
 .fa-solid {
   width: 15%;
   margin: 3%;
+}
+
+/* user profile footer */
+
+#footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #E9E5D6;
+  /* color: white; */
+  text-align: center;
 }
