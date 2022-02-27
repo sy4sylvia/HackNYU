@@ -5,7 +5,20 @@ body {
   background-color: #E9E5D6;
 
   /* background-image: url("paper.gif"); */
+}
 
+.login-body {
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  font-style: normal;
+  background-color: #fff;
+}
+
+.sign-up-body {
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  font-style: normal;
+  background-color: #fff;
 }
 
 h1 {
