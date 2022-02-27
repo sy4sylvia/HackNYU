@@ -4,7 +4,8 @@ body {
   font-style: normal;
   /* background-color: #E9E5D6; */
 
-  background-image: url("images/background.png");
+  background-image: url("/Users/siyaguo/Documents/GitHub/HackNYU/images/background.png");
+  background-size: cover
 
 }
 
@@ -40,13 +41,24 @@ a:hover {
   padding: 4.5% 15%;
 }
 
+.white-section{
+  background-color: #fff;
+}
 
+.transparent-section {
+  background-color: #fff;
+  opacity: 0.5;
+}
 /* Name, username, email... */
 .decrp {
   margin: 2%;
   font-weight: normal;
   font-size: 1rem;
   text-align: left;
+}
+
+.brand-verdant {
+  visibility: hidden;
 }
 
 /* input blocks */
@@ -78,6 +90,23 @@ a:hover {
   background-color: #E9E5D6;
 }
 
+/* profile */
+.greeting-john {
+  color: #E9E5D6;
+}
+
+.col-lg-12 {
+  background-color: white;
+  opacity: 0.5;
+  border-radius: 30%;
+}
+
+
+.fa-ellipsis {
+  float: right;
+  padding: 3% 20% 0 50%;
+  font-size: 3rem;
+}
 
 /* animal page */
 
@@ -119,7 +148,7 @@ a:hover {
   left: 0;
   bottom: 0;
   width: 100%;
-  background-color: #C4C4C4;
+  background-color: white;
   text-align: center;
 }
 .achiv-footer {
@@ -210,6 +239,6 @@ div.scrollmenu h4 {
 }
 
 .block {
-  background-color: black;
+  /* background-color: black; */
   border-radius: 30px;
 }
