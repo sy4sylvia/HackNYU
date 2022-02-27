@@ -2,6 +2,7 @@ body {
   text-align: center;
   font-family: 'Roboto', sans-serif;
   font-style: normal;
+  background-color: #E9E5D6;
 
   /* background-image: url("paper.gif"); */
 
@@ -11,6 +12,12 @@ h1 {
   font-weight: bold;
   font-size: 2.5rem;
   margin: 10%;
+}
+
+
+
+.container-fluid {
+  padding: 4.5% 15%;
 }
 
 
@@ -41,15 +48,18 @@ h1 {
 
 
 .colored-section {
-  margin-top: 0;
+  /* margin-top: 0; */
   background-color: #ACB992;
-  padding: 5.5%;
+  /* padding: 5.5%; */
+  /* line-height: 1.5; */
 }
 
 
 .light-section {
   background-color: #E9E5D6;
 }
+
+
 /* animal page */
 
 .animal-img {
@@ -62,6 +72,14 @@ h1 {
 
 /* user profile page */
 
+/* nav bar */
+
+.navbar {
+  padding: 0;
+  margin: 0;
+}
+
+
 .profile-header {
 
 }
@@ -72,7 +90,7 @@ h1 {
 }
 
 .testimonial-text {
-  font-size: 2.5rem;
+  font-size: 1.5rem;
   line-height: 1.5;
 }
 /* user profile footer */
@@ -82,7 +100,7 @@ h1 {
   left: 0;
   bottom: 0;
   width: 100%;
-  background-color: #E9E5D6;
+  background-color: #C4C4C4;
   /* color: white; */
   text-align: center;
 }
