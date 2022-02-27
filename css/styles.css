@@ -95,15 +95,31 @@ h1 {
 }
 /* user profile footer */
 
-#footer {
+.profile-footer {
   position: fixed;
   left: 0;
   bottom: 0;
   width: 100%;
   background-color: #C4C4C4;
-  /* color: white; */
   text-align: center;
 }
+.achiv-footer {
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #C4C4C4;
+  text-align: center;
+}
+
+/* #footer { */
+  /* position: fixed; */
+  /* left: 0;
+  bottom: 0;
+  width: 100%; */
+  /* background-color: #C4C4C4; */
+  /* color: white; */
+  /* text-align: center;
+} */
 
 
 /* achievements */
@@ -124,6 +140,9 @@ h1 {
   margin-bottom: 7%;
 }
 
+.all-achiv {
+  margin: 7% 0;
+}
 
 div.scrollmenu {
   background-color: #333;
@@ -148,3 +167,13 @@ div.scrollmenu h4 {
   border-radius: 30%;
   /* border-top: 20%; */
 }
+
+/*
+.list-group {
+  float: left;
+}
+.scrollspy-example {
+  position: relative;
+
+
+} */
