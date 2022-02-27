@@ -37,9 +37,14 @@ a:hover {
 .verdant-text {
   margin-top:0;
 }
+.btn-started {
+  opacity: 0.5;
+}
 
+/* positioning */
+.two-btns {
 
-
+}
 
 
 .login-body {
