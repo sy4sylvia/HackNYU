@@ -8,6 +8,11 @@
   background-size: cover;
 }
 
+.animal-bg {
+  background-image: url("/Users/siyaguo/Documents/GitHub/HackNYU/images/background.png");
+  background-size: cover;
+}
+
 body {
   text-align: center;
   font-family: 'Roboto', sans-serif;
