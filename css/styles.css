@@ -2,9 +2,10 @@ body {
   text-align: center;
   font-family: 'Roboto', sans-serif;
   font-style: normal;
-  background-color: #E9E5D6;
+  /* background-color: #E9E5D6; */
 
-  /* background-image: url("paper.gif"); */
+  background-image: url("images/background.png");
+
 }
 
 .login-body {
@@ -193,4 +194,22 @@ div.scrollmenu h4 {
   text-decoration: none;
   border-radius: 30%;
   /* border-top: 20%; */
+}
+
+
+/* menu  */
+
+.close-icon {
+  /* float: right; */
+  position: fixed;
+  top: 4.5%;
+  right: 7.5%;
+  /* padding: 4.5% 15%; */
+  /* same as nav bar */
+  font-size: 4rem;
+}
+
+.block {
+  background-color: black;
+  border-radius: 30px;
 }
