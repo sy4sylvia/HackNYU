@@ -14,7 +14,13 @@ h1 {
   margin: 10%;
 }
 
+a {
+  color: black;
+}
 
+a:hover {
+  color: grey;
+}
 
 .container-fluid {
   padding: 4.5% 15%;
@@ -111,6 +117,15 @@ h1 {
   text-align: center;
 }
 
+.ntwk-footer {
+  /* position: fixed; */
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #C4C4C4;
+  text-align: center;
+}
+
 /* #footer { */
   /* position: fixed; */
   /* left: 0;
@@ -167,13 +182,3 @@ div.scrollmenu h4 {
   border-radius: 30%;
   /* border-top: 20%; */
 }
-
-/*
-.list-group {
-  float: left;
-}
-.scrollspy-example {
-  position: relative;
-
-
-} */
