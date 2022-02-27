@@ -18,8 +18,8 @@ body {
   text-align: center;
   font-family: 'Roboto', sans-serif;
   font-style: normal;
-  background-image: url("/Users/siyaguo/Documents/GitHub/HackNYU/images/background.png");
-  background-size: cover;
+  /* background-image: url("/Users/siyaguo/Documents/GitHub/HackNYU/images/background.png");
+  background-size: cover; */
 }
 
 h1 {
@@ -169,10 +169,6 @@ body.sign-up-body {
   color: #E9E5D6;
 }
 
-.user {
-  border-top-left-radius: 20%;
-  border-top-right-radius: 20%;
-}
 
 .avatar {
   font-size: 10rem;
