@@ -18,6 +18,8 @@ body {
   text-align: center;
   font-family: 'Roboto', sans-serif;
   font-style: normal;
+  background-image: url("/Users/siyaguo/Documents/GitHub/HackNYU/images/background.png");
+  background-size: cover;
 }
 
 h1 {
